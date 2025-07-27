@@ -1,0 +1,3 @@
+[submodule "my-ssg-golang"]
+	path = my-ssg-golang
+	url = https://github.com/WilliamKSilva/my-ssg-golang.git
